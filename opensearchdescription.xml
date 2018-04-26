@@ -1,0 +1,7 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Search in Yowko's Notes</ShortName>
+<Description>Search Yowko's Notes via OpenSearch</Description>
+<Tags>Yowko's Notes blog</Tags>
+<Contact>yowko@yowko.com</Contact>
+<Url type="text/html" template="http://blog.yowko.com/search?q={searchTerms}"/>
+</OpenSearchDescription>
